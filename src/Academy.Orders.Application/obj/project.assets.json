@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Academy.Orders.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Academy.Orders.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Academy.Orders.Domain.dll": {}
+        }
+      },
+      "Academy.Orders.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Academy.Orders.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Academy.Orders.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Academy.Orders.Infrastructure.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Academy.Orders.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Academy.Orders.Domain/Academy.Orders.Domain.csproj",
+      "msbuildProject": "../Academy.Orders.Domain/Academy.Orders.Domain.csproj"
+    },
+    "Academy.Orders.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Academy.Orders.Infrastructure/Academy.Orders.Infrastructure.csproj",
+      "msbuildProject": "../Academy.Orders.Infrastructure/Academy.Orders.Infrastructure.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Academy.Orders.Infrastructure >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\DSANVICE\\.nuget\\packages\\": {}
@@ -31,7 +68,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\DSANVICE\\Downloads\\Academy.Orders\\src\\Academy.Orders.Infrastructure\\Academy.Orders.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\DSANVICE\\Downloads\\Academy.Orders\\src\\Academy.Orders.Infrastructure\\Academy.Orders.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
