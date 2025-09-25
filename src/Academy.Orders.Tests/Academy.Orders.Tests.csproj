@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Academy.Orders.API\Academy.Orders.API.csproj" />
+    <ProjectReference Include="..\Academy.Orders.Application\Academy.Orders.Application.csproj" />
+    <ProjectReference Include="..\Academy.Orders.Domain\Academy.Orders.Domain.csproj" />
+    <ProjectReference Include="..\Academy.Orders.Infrastructure\Academy.Orders.Infrastructure.csproj" />
+    <ProjectReference Include="..\Academy.Orders.Presentation\Academy.Orders.Presentation.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
