@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\github\\Academy Project\\Academy.Orders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFC707D-7C09-445A-9E63-794301C9E6F8}|Academy.Orders.Application\\Academy.Orders.Application.csproj|f:\\github\\academy project\\academy.orders\\academy.orders.application\\orders\\commands\\confirmorder\\confirmordercommanhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFC707D-7C09-445A-9E63-794301C9E6F8}|Academy.Orders.Application\\Academy.Orders.Application.csproj|solutionrelative:academy.orders.application\\orders\\commands\\confirmorder\\confirmordercommanhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFC707D-7C09-445A-9E63-794301C9E6F8}|Academy.Orders.Application\\Academy.Orders.Application.csproj|f:\\github\\academy project\\academy.orders\\academy.orders.application\\abstrasctions\\messaging\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFC707D-7C09-445A-9E63-794301C9E6F8}|Academy.Orders.Application\\Academy.Orders.Application.csproj|solutionrelative:academy.orders.application\\abstrasctions\\messaging\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFC707D-7C09-445A-9E63-794301C9E6F8}|Academy.Orders.Application\\Academy.Orders.Application.csproj|f:\\github\\academy project\\academy.orders\\academy.orders.application\\abstrasctions\\messaging\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFC707D-7C09-445A-9E63-794301C9E6F8}|Academy.Orders.Application\\Academy.Orders.Application.csproj|solutionrelative:academy.orders.application\\abstrasctions\\messaging\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFC707D-7C09-445A-9E63-794301C9E6F8}|Academy.Orders.Application\\Academy.Orders.Application.csproj|f:\\github\\academy project\\academy.orders\\academy.orders.application\\orders\\commands\\confirmorder\\confirmordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFC707D-7C09-445A-9E63-794301C9E6F8}|Academy.Orders.Application\\Academy.Orders.Application.csproj|solutionrelative:academy.orders.application\\orders\\commands\\confirmorder\\confirmordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\github\\Academy Project\\Academy.Orders\\Academy.Orders.Presentation\\Modules\\OrderModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Academy.Orders.Presentation\\Modules\\OrderModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\github\\Academy Project\\Academy.Orders\\src\\Academy.Orders.Domain\\Shared\\Result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Academy.Orders.Domain\\Shared\\Result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339D8D29-42AE-4906-A4A8-B6FAFEDD4A64}|Academy.Orders.API\\Academy.Orders.API.csproj|f:\\github\\academy project\\academy.orders\\academy.orders.api\\academy.orders.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{339D8D29-42AE-4906-A4A8-B6FAFEDD4A64}|Academy.Orders.API\\Academy.Orders.API.csproj|solutionrelative:academy.orders.api\\academy.orders.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderModule.cs",
+              "DocumentMoniker": "F:\\github\\Academy Project\\Academy.Orders\\Academy.Orders.Presentation\\Modules\\OrderModule.cs",
+              "RelativeDocumentMoniker": "Academy.Orders.Presentation\\Modules\\OrderModule.cs",
+              "ToolTip": "F:\\github\\Academy Project\\Academy.Orders\\Academy.Orders.Presentation\\Modules\\OrderModule.cs",
+              "RelativeToolTip": "Academy.Orders.Presentation\\Modules\\OrderModule.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T22:02:11.04Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Academy.Orders.API.csproj",
+              "DocumentMoniker": "F:\\github\\Academy Project\\Academy.Orders\\Academy.Orders.API\\Academy.Orders.API.csproj",
+              "RelativeDocumentMoniker": "Academy.Orders.API\\Academy.Orders.API.csproj",
+              "ToolTip": "F:\\github\\Academy Project\\Academy.Orders\\Academy.Orders.API\\Academy.Orders.API.csproj",
+              "RelativeToolTip": "Academy.Orders.API\\Academy.Orders.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-25T22:37:27.111Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Result.cs",
+              "DocumentMoniker": "F:\\github\\Academy Project\\Academy.Orders\\src\\Academy.Orders.Domain\\Shared\\Result.cs",
+              "RelativeDocumentMoniker": "src\\Academy.Orders.Domain\\Shared\\Result.cs",
+              "ToolTip": "F:\\github\\Academy Project\\Academy.Orders\\src\\Academy.Orders.Domain\\Shared\\Result.cs",
+              "RelativeToolTip": "src\\Academy.Orders.Domain\\Shared\\Result.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:50:58.863Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfirmOrderCommand.cs",
+              "DocumentMoniker": "F:\\github\\Academy Project\\Academy.Orders\\Academy.Orders.Application\\Orders\\Commands\\ConfirmOrder\\ConfirmOrderCommand.cs",
+              "RelativeDocumentMoniker": "Academy.Orders.Application\\Orders\\Commands\\ConfirmOrder\\ConfirmOrderCommand.cs",
+              "ToolTip": "F:\\github\\Academy Project\\Academy.Orders\\Academy.Orders.Application\\Orders\\Commands\\ConfirmOrder\\ConfirmOrderCommand.cs",
+              "RelativeToolTip": "Academy.Orders.Application\\Orders\\Commands\\ConfirmOrder\\ConfirmOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T23:53:30.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "F:\\github\\Academy Project\\Academy.Orders\\Academy.Orders.Application\\Abstrasctions\\Messaging\\IQuery.cs",
+              "RelativeDocumentMoniker": "Academy.Orders.Application\\Abstrasctions\\Messaging\\IQuery.cs",
+              "ToolTip": "F:\\github\\Academy Project\\Academy.Orders\\Academy.Orders.Application\\Abstrasctions\\Messaging\\IQuery.cs",
+              "RelativeToolTip": "Academy.Orders.Application\\Abstrasctions\\Messaging\\IQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T23:49:18.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "F:\\github\\Academy Project\\Academy.Orders\\Academy.Orders.Application\\Abstrasctions\\Messaging\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "Academy.Orders.Application\\Abstrasctions\\Messaging\\IQueryHandler.cs",
+              "ToolTip": "F:\\github\\Academy Project\\Academy.Orders\\Academy.Orders.Application\\Abstrasctions\\Messaging\\IQueryHandler.cs",
+              "RelativeToolTip": "Academy.Orders.Application\\Abstrasctions\\Messaging\\IQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T23:44:52.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfirmOrderCommanHandler.cs",
+              "DocumentMoniker": "F:\\github\\Academy Project\\Academy.Orders\\Academy.Orders.Application\\Orders\\Commands\\ConfirmOrder\\ConfirmOrderCommanHandler.cs",
+              "RelativeDocumentMoniker": "Academy.Orders.Application\\Orders\\Commands\\ConfirmOrder\\ConfirmOrderCommanHandler.cs",
+              "ToolTip": "F:\\github\\Academy Project\\Academy.Orders\\Academy.Orders.Application\\Orders\\Commands\\ConfirmOrder\\ConfirmOrderCommanHandler.cs",
+              "RelativeToolTip": "Academy.Orders.Application\\Orders\\Commands\\ConfirmOrder\\ConfirmOrderCommanHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T23:37:48.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

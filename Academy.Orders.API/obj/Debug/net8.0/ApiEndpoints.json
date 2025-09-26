@@ -1,0 +1,24 @@
+[
+  {
+    "ContainingType": "Academy.Orders.Presentation.Modules.OrderModules",
+    "Method": "ConfirmOrder",
+    "RelativePath": "api/v1/orders/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Academy.Orders.Application.Orders.Commands.ConfirmOrder.ConfirmOrderCommandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

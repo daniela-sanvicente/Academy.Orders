@@ -1,0 +1,16 @@
+F:\github\Academy Project\Academy.Orders\Academy.Orders.Application\bin\Debug\net8.0\Academy.Orders.Application.deps.json
+F:\github\Academy Project\Academy.Orders\Academy.Orders.Application\bin\Debug\net8.0\Academy.Orders.Application.dll
+F:\github\Academy Project\Academy.Orders\Academy.Orders.Application\bin\Debug\net8.0\Academy.Orders.Application.pdb
+F:\github\Academy Project\Academy.Orders\Academy.Orders.Application\bin\Debug\net8.0\Academy.Orders.Domain.dll
+F:\github\Academy Project\Academy.Orders\Academy.Orders.Application\bin\Debug\net8.0\Academy.Orders.Domain.pdb
+F:\github\Academy Project\Academy.Orders\Academy.Orders.Application\obj\Debug\net8.0\Academy.Orders.Application.csproj.AssemblyReference.cache
+F:\github\Academy Project\Academy.Orders\Academy.Orders.Application\obj\Debug\net8.0\Academy.Orders.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\github\Academy Project\Academy.Orders\Academy.Orders.Application\obj\Debug\net8.0\Academy.Orders.Application.AssemblyInfoInputs.cache
+F:\github\Academy Project\Academy.Orders\Academy.Orders.Application\obj\Debug\net8.0\Academy.Orders.Application.AssemblyInfo.cs
+F:\github\Academy Project\Academy.Orders\Academy.Orders.Application\obj\Debug\net8.0\Academy.Orders.Application.csproj.CoreCompileInputs.cache
+F:\github\Academy Project\Academy.Orders\Academy.Orders.Application\obj\Debug\net8.0\Academy.Orders.Application.sourcelink.json
+F:\github\Academy Project\Academy.Orders\Academy.Orders.Application\obj\Debug\net8.0\Academy..3720691D.Up2Date
+F:\github\Academy Project\Academy.Orders\Academy.Orders.Application\obj\Debug\net8.0\Academy.Orders.Application.dll
+F:\github\Academy Project\Academy.Orders\Academy.Orders.Application\obj\Debug\net8.0\refint\Academy.Orders.Application.dll
+F:\github\Academy Project\Academy.Orders\Academy.Orders.Application\obj\Debug\net8.0\Academy.Orders.Application.pdb
+F:\github\Academy Project\Academy.Orders\Academy.Orders.Application\obj\Debug\net8.0\ref\Academy.Orders.Application.dll
