@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DSANVICE\\Downloads\\Academy.Orders\\src\\Academy.Orders.Infrastructure\\Academy.Orders.Infrastructure.csproj": {}
+    "C:\\Users\\Jovanna Escobar\\OneDrive\\Documentos\\capgemini\\proyecto\\Academy.Orders\\src\\Academy.Orders.Infrastructure\\Academy.Orders.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DSANVICE\\Downloads\\Academy.Orders\\src\\Academy.Orders.Domain\\Academy.Orders.Domain.csproj": {
+    "C:\\Users\\Jovanna Escobar\\OneDrive\\Documentos\\capgemini\\proyecto\\Academy.Orders\\src\\Academy.Orders.Domain\\Academy.Orders.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DSANVICE\\Downloads\\Academy.Orders\\src\\Academy.Orders.Domain\\Academy.Orders.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Jovanna Escobar\\OneDrive\\Documentos\\capgemini\\proyecto\\Academy.Orders\\src\\Academy.Orders.Domain\\Academy.Orders.Domain.csproj",
         "projectName": "Academy.Orders.Domain",
-        "projectPath": "C:\\Users\\DSANVICE\\Downloads\\Academy.Orders\\src\\Academy.Orders.Domain\\Academy.Orders.Domain.csproj",
-        "packagesPath": "C:\\Users\\DSANVICE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DSANVICE\\Downloads\\Academy.Orders\\src\\Academy.Orders.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Jovanna Escobar\\OneDrive\\Documentos\\capgemini\\proyecto\\Academy.Orders\\src\\Academy.Orders.Domain\\Academy.Orders.Domain.csproj",
+        "packagesPath": "C:\\Users\\Jovanna Escobar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jovanna Escobar\\OneDrive\\Documentos\\capgemini\\proyecto\\Academy.Orders\\src\\Academy.Orders.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DSANVICE\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Jovanna Escobar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,34 +66,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\DSANVICE\\Downloads\\Academy.Orders\\src\\Academy.Orders.Infrastructure\\Academy.Orders.Infrastructure.csproj": {
+    "C:\\Users\\Jovanna Escobar\\OneDrive\\Documentos\\capgemini\\proyecto\\Academy.Orders\\src\\Academy.Orders.Infrastructure\\Academy.Orders.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DSANVICE\\Downloads\\Academy.Orders\\src\\Academy.Orders.Infrastructure\\Academy.Orders.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Jovanna Escobar\\OneDrive\\Documentos\\capgemini\\proyecto\\Academy.Orders\\src\\Academy.Orders.Infrastructure\\Academy.Orders.Infrastructure.csproj",
         "projectName": "Academy.Orders.Infrastructure",
-        "projectPath": "C:\\Users\\DSANVICE\\Downloads\\Academy.Orders\\src\\Academy.Orders.Infrastructure\\Academy.Orders.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\DSANVICE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DSANVICE\\Downloads\\Academy.Orders\\src\\Academy.Orders.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Jovanna Escobar\\OneDrive\\Documentos\\capgemini\\proyecto\\Academy.Orders\\src\\Academy.Orders.Infrastructure\\Academy.Orders.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Jovanna Escobar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jovanna Escobar\\OneDrive\\Documentos\\capgemini\\proyecto\\Academy.Orders\\src\\Academy.Orders.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DSANVICE\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Jovanna Escobar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\DSANVICE\\Downloads\\Academy.Orders\\src\\Academy.Orders.Domain\\Academy.Orders.Domain.csproj": {
-                "projectPath": "C:\\Users\\DSANVICE\\Downloads\\Academy.Orders\\src\\Academy.Orders.Domain\\Academy.Orders.Domain.csproj"
+              "C:\\Users\\Jovanna Escobar\\OneDrive\\Documentos\\capgemini\\proyecto\\Academy.Orders\\src\\Academy.Orders.Domain\\Academy.Orders.Domain.csproj": {
+                "projectPath": "C:\\Users\\Jovanna Escobar\\OneDrive\\Documentos\\capgemini\\proyecto\\Academy.Orders\\src\\Academy.Orders.Domain\\Academy.Orders.Domain.csproj"
               }
             }
           }
@@ -120,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -10,4 +10,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+    <ItemGroup>
+	    <PackageReference Include="Microsoft.AspNetCore.Routing" Version="2.3.0" />
+	    <PackageReference Include="Microsoft.AspNetCore.App" />
+    </ItemGroup>
+
+    <ItemGroup>
+	    <ProjectReference Include="..\Academy.Orders.Application\Academy.Orders.Application.csproj" />
+    </ItemGroup>
+
 </Project>
